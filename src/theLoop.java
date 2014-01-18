@@ -5,7 +5,7 @@ import library.Global;
 import library.Query;
 import library.lib;
 
-public class Main {
+public class theLoop {
 
 	private static void loop() {
 		
@@ -18,7 +18,7 @@ public class Main {
 				if(Query.getInfo()){  // for account balance and fee-%
 						    	        
 					Global.walletInUSD=Global.balance[1]+Global.balance[0]*Global.ticker.getLast()*(1-Global.tradeFee/100);
-			//		Global.walletInBTC= Global.balance[0]+Global.balance[1]/Global.ticker.getLast()*(1-Global.tradeFee/100);
+					Global.walletInBTC= Global.balance[0]+Global.balance[1]/Global.ticker.getLast()*(1-Global.tradeFee/100);
 									 		        
 					lib.conprint("Balance: $" +  lib.round((float)Global.balance[1],4) + " | " + lib.round((float)Global.balance[0],4) + " BTC");
 					lib.conprint3("\t  Balance converted: $" +  lib.round((float)Global.walletInUSD,4) + " or " + lib.round((float)Global.walletInBTC,4) + " BTC (with " + Global.tradeFee + " % fee)");
