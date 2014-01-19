@@ -21,4 +21,4 @@ How to use:<br>
     PPC:   PF7y9TCDwBGcZkaRGTFPpN3SNM7q69i3Kc
 
 Example chart with 60 min interval used: 
-![alt text](https://ip.bitcointalk.org/?u=http%3A%2F%2Foi40.tinypic.com%2F16lg106.jpg&t=536&c=p3YtClZeHWJ34A )
+![alt text](http://oi39.tinypic.com/118nep4.jpg )
