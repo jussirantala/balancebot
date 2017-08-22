@@ -13,12 +13,7 @@ How to use:<br>
 7. Open command line or terminal depending on your operating system and navigate to the folder of extracted files<br>
 8. Start the bot with this command: java -jar balancebot.jar<br>
 9. Let it run 24/7 (I run it at my Linux server). If you are using linux, you can make it to run on background by starting it like this: screen java -jar balancebot.jar
-<br><br>
-10. Donate if you like it: <br>
-    BTC:   158UQ2niJ6eVQgPsfJaS791s9hBruVWBUU<br>
-    LTC:   LauBymAt8Kkz9CLmZ8QA5h8rfV6DACfVSS<br>
-    Doge:  DQsANjjfnbBDR42S9NrWfcswRXiFDC9xr1<br>
-    PPC:   PF7y9TCDwBGcZkaRGTFPpN3SNM7q69i3Kc
+<br>
 
 Example chart with 60 min interval used: 
 ![alt text](http://oi39.tinypic.com/118nep4.jpg )
